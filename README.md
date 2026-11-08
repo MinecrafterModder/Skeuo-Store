@@ -1,2 +1,2 @@
-# Skeuomorphic-iPhone-Apps
+# Old Store
 Skeuomorphic style apps for the iPhone.
