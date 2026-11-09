@@ -1,4 +1,4 @@
-<div align="center"><picture"><img src="assets/favicon-192x192.png"></picture></div>
+<div align="center"><a href="#"><img src="assets/favicon-192x192.png"></a></div>
 <h1 align="center">Skeuo Store</h1>
 
 > [!WARNING]
